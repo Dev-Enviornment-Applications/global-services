@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "global-services"
-  ]
+    "global-services",
+    "loopback4-example-shopping"
+  ],
+  "dependencies": {
+    "@loopback/core": "^2.16.2"
+  }
 }
