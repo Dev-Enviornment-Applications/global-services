@@ -1,0 +1,15 @@
+{
+  "name": "global-services",
+  "version": "1.0.0",
+  "description": "This project is built on top of loopback 4. Learn more: https://loopback.io/doc/en/lb4/Getting-started.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "global-services"
+  ]
+}
